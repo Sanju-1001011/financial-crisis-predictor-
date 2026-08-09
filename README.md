@@ -64,12 +64,12 @@ Save both files, and your project is fully documented, polished, and ready for d
 
 ### Financial Crisis Predictor
 
-![Financial Crisis Predictor](https://github.com/Sanju-1001011/financial-crisis-predictor-/blob/af2730e150ff4092b8993c5d2bcc9355a65441eb/financial%20crisis.png)
+![Financial Crisis Predictor](https://github.com/Sanju-1001011/financial-crisis-predictor/blob/main/financial%20crisis.png?raw=true)
 
 ### Prediction
 
-![Prediction](https://raw.githubusercontent.com/Sanju-1001011/financial-crisis-predictor/main/prediction.png)
+![Prediction](https://github.com/Sanju-1001011/financial-crisis-predictor/blob/main/prediction.png?raw=true)
 
 ### Prediction Terminal
 
-![Prediction Terminal](https://raw.githubusercontent.com/Sanju-1001011/financial-crisis-predictor/main/prediction%20terminal.png)
+![Prediction Terminal](https://github.com/Sanju-1001011/financial-crisis-predictor/blob/main/prediction%20terminal.png?raw=true)
