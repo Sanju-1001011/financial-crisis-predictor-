@@ -51,6 +51,8 @@ pip install yfinance
 
 again :
 
+<img width="1917" height="905" alt="financial crisis" src="https://github.com/user-attachments/assets/139c1997-6738-48ab-af88-0744916d0c37" />
+<img width="1917" height="905" alt="financial crisis" src="https://github.com/user-attachments/assets/1dd2c227-d977-4fa8-a6c4-a8e6b8504d50" />
 
 Bash
 streamlit run app.py
