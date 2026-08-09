@@ -64,7 +64,7 @@ Save both files, and your project is fully documented, polished, and ready for d
 
 ### Financial Crisis Predictor
 
-![Financial Crisis Predictor](https://raw.githubusercontent.com/Sanju-1001011/financial-crisis-predictor/main/financial%20crisis.png)
+![Financial Crisis Predictor](https://github.com/Sanju-1001011/financial-crisis-predictor-/blob/af2730e150ff4092b8993c5d2bcc9355a65441eb/financial%20crisis.png)
 
 ### Prediction
 
