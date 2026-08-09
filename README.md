@@ -60,3 +60,4 @@ python -m streamlit run app.py
 
 
 Save both files, and your project is fully documented, polished, and ready for deployment or presentation!
+https://github.com/Sanju-1001011/financial-crisis-predictor-/blob/92219a5385aa0e5ceecad81e8b0c8c449fbb9a4b/financial%20crisis.png
